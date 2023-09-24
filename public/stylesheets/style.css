@@ -1,0 +1,14 @@
+h1 {
+  font-size: 35px;
+  margin: 25px;
+  font-family: "Caveat", "consolas", "sans-serif";
+  color: rgb(240, 70, 51);
+}
+.radar {
+  background-color: white;
+  position: center;
+  left: 10vw;
+  top: 7vh;
+  z-index: 0;
+  margin-bottom: 30px;
+}
